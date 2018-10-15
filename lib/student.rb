@@ -57,7 +57,6 @@ class Student
     new_student.grade = row[2]
     new_student
     # binding.pry
-
   end
 
   # Remember, you can access your database connection anywhere in this class
